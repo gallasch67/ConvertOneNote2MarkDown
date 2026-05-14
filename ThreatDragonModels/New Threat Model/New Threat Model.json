@@ -27,9 +27,18 @@
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.6.2",
         "cells": []
+      },
+      {
+        "id": 1,
+        "title": "Neues CIA-DIE Diagramm",
+        "diagramType": "CIADIE",
+        "placeholder": "Neue CIA-DIE Diagramm Beschreibung",
+        "thumbnail": "./public/content/images/thumbnail.die.jpg",
+        "version": "2.6.2",
+        "cells": []
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "gallasch",
     "threatTop": 0
   }
