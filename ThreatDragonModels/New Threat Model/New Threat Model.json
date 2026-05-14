@@ -1,0 +1,36 @@
+{
+  "version": "2.6.2",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "gallasch",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "A"
+      },
+      {
+        "name": "b"
+      },
+      {
+        "name": "C"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Neues STRIDE Diagramm",
+        "diagramType": "STRIDE",
+        "placeholder": "Neue STRIDE Diagramm Beschreibung",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "gallasch",
+    "threatTop": 0
+  }
+}
